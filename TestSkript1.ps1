@@ -1,6 +1,6 @@
 <#PSScriptInfo
 
-.VERSION 1.0.0.0
+.VERSION 1.0.0.1
 
 .GUID 8b1bb377-5b01-459d-a67d-b91ff576db9f
 
@@ -57,7 +57,7 @@ function Test-Script
             "lmao"
         }
         else{
-            "hallo"
+            "hallo2"
         }
     }
 }
