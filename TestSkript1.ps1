@@ -1,8 +1,8 @@
 <#PSScriptInfo
 
-.VERSION 1.0
+.VERSION 1.0.0.0
 
-.GUID a48c3340-bece-4f55-9a7e-bd2dae3c5fbd
+.GUID 8b1bb377-5b01-459d-a67d-b91ff576db9f
 
 .AUTHOR mschreyer
 
@@ -26,15 +26,9 @@
 
 .RELEASENOTES
 
-
-#>
-
-<# 
-
 .DESCRIPTION 
- "Skript zum testen der GoCD Pipeline" 
-
-#> 
+ Testbeschreibung 
+#>
 function Test-Script
 {
     [OutputType([string])]
